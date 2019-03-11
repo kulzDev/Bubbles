@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "109554618765",
+    "firebase_url": "https://bubbles-d9963.firebaseio.com",
+    "project_id": "bubbles-d9963",
+    "storage_bucket": "bubbles-d9963.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109554618765:android:1d186abab3394677",
+        "android_client_info": {
+          "package_name": "com.kulzdev.bubblesproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109554618765-8v2ajcpkniifdoi625mvg5q194olaegm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kulzdev.bubblesproject",
+            "certificate_hash": "df6a87aa95b97245751ce4f4df1003546c979206"
+          }
+        },
+        {
+          "client_id": "109554618765-4qqn9aatb5ab110u49k7ijl34khlcjda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP5wGIbdwAnRkI-sMgqYqnMQ2BFk85XMc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109554618765-4qqn9aatb5ab110u49k7ijl34khlcjda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
